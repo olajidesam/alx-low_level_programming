@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/**
+ * main - magic
+ */
 int main(void)
 {
 	int n;
@@ -13,10 +16,10 @@ int main(void)
  * Write your line of code here
  * Remember:
  * main - magic
- * - you are not allowed to use a 
+ * - you are not allowed to use a
  *   - you are not allowed to modify p
  *   - oly one statement
- *   - ypu are not allowed to code anything else than this line of code
+ *   - you are not allowed to code anything else than this line of code
  */
 	*(p + 5) = 98;
 /*... so this prints 98\n */
